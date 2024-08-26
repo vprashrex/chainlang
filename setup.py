@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="chainlang",
+    name="langchain",
     version="0.1",
     author="Prashant",
     author_email="vprashant5050@gmail.com",
